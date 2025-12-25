@@ -14,6 +14,14 @@ This tool enforces a strict, clean architecture, eliminating repetitive setup ta
 
 ---
 
+## 📺 Demo
+
+![Extension Demo](https://raw.githubusercontent.com/jaimilgorajiya/backend-boilerplate-generator/main/demo.gif)
+
+> *Tip: Watch the extension in action above!*
+
+---
+
 ## ✨ Core Features
 
 - **One-Command Generation**: Create a full backend structure (Model, Controller, Route) instantly.

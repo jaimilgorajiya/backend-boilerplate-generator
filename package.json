@@ -1,7 +1,8 @@
 {
   "name": "backend-boilerplate-generator",
   "displayName": "Backend Boilerplate Generator",
-  "description": "Generate strict backend CRUD boilerplate for MERN stack",
+  "icon": "icon.png",
+  "description": "Instantly generate production-ready, strict Node.js, Express, and MongoDB backend CRUD boilerplates with clean architecture.",
   "publisher": "jaimilgorajiya",
   "repository": {
     "type": "git",
@@ -16,9 +17,36 @@
     "vscode": "^1.80.0"
   },
   "categories": [
+    "Snippets",
+    "Programming Languages",
     "Other"
   ],
-  "activationEvents": [],
+  "keywords": [
+    "node",
+    "express",
+    "mongoose",
+    "backend",
+    "boilerplate",
+    "generator",
+    "crud",
+    "api",
+    "mern",
+    "rest",
+    "snippets",
+    "mongodb",
+    "schema",
+    "model",
+    "controller",
+    "routes",
+    "scaffold",
+    "template",
+    "javascript",
+    "typescript",
+    "web"
+  ],
+  "activationEvents": [
+    "onCommand:backend-crud-helper.generateCrud"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
