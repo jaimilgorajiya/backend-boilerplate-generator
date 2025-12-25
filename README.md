@@ -16,7 +16,7 @@ This tool enforces a strict, clean architecture, eliminating repetitive setup ta
 
 ## 📺 Demo
 
-![Extension Demo](https://raw.githubusercontent.com/jaimilgorajiya/backend-boilerplate-generator/main/demo.gif)
+![Extension Demo](demo.gif)
 
 > *Tip: Watch the extension in action above!*
 
